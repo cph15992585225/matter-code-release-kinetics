@@ -1,0 +1,2 @@
+The original Excel data files are provided separately through the journal submission system for peer review.
+Please place training_data.xlsx and prediction_data.xlsx in this folder before running the scripts.
